@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://sofyen:aaaa1234@cluster0-xyfql.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://sofyen:aaaa1234@cluster0-xyfql.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secrettoken",
+  "githubClientId": "9e28dfe003e583e0c9b4",
+  "githubSecret": "478d64c2b397b8528269dc8b071c09d006888a7e"
 }
